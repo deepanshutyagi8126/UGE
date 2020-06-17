@@ -2500,7 +2500,7 @@ CSS- / Stellen / .stellenBanner .bannerIn {
 	display: block;
 }
 .knowLeft{
-	display: none;
+	display: block;
 }
 .knowLeft.active{
 	display: block;
